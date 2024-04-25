@@ -1,0 +1,17 @@
+Список песен: 
+[Song(title=“Under Pressure”, year=1981, singers=[Queen, David Bowie]), Song(title=“Don’t give up”, year=1986, singers=[Peter Gabriel, Kate Bush]), Song(title=“Poker Face”, year=2009, singers=[Lady Gaga]), Song(title=“I’m Real”, year=2001, singers=[Jennifer Lopez, Ja Rule]), Song(title=“Hello”, year=2015, singers=[Adele]), Song(title=“Promiscuous”, year=2006, singers=[Nelly Furtado, Timbaland]), Song(title=“The Way I Are”, year=2007, singers=[Timbaland, Keri Hilson]), Song(title=“No More Tears”, year=1979, singers=[Barbra Streisand, Donna Summer]), Song(title=“All of Me”, year=2013, singers=[John Legend]), Song(title=“I gotta Feeling”, year=2009, singers=[The Black Eyed Peas])]
+
+Песня, выпущенная раньше остальных:
+Название: “No More Tears”
+Год: 1979
+Исполнитель(и):
+Barbra Streisand
+Donna Summer
+
+Коллекция песен, которые исполняются дуэтом: 
+[Song(title=“Under Pressure”, year=1981, singers=[Queen, David Bowie]), Song(title=“Don’t give up”, year=1986, singers=[Peter Gabriel, Kate Bush]), Song(title=“I’m Real”, year=2001, singers=[Jennifer Lopez, Ja Rule]), Song(title=“Promiscuous”, year=2006, singers=[Nelly Furtado, Timbaland]), Song(title=“The Way I Are”, year=2007, singers=[Timbaland, Keri Hilson]), Song(title=“No More Tears”, year=1979, singers=[Barbra Streisand, Donna Summer])]
+
+Исполнитель с наибольшим количеством печен: Timbaland
+
+Список песен певца Timbaland по годам :
+[Song(title=“Promiscuous”, year=2006, singers=[Nelly Furtado, Timbaland]), Song(title=“The Way I Are”, year=2007, singers=[Timbaland, Keri Hilson])]
